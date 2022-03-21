@@ -1,11 +1,5 @@
 # Finest
-This repository contains the codes used in the *Finesse* project. It consists of three main parts: Finesse Android app, Dashboard (`dashboard/`), and Analysis (`script/`).
-
-- Finesse Android App: Code for *Finesse* app in Android.
-
-- Dashboard: Code for a web dashboard to visualize each user's usage. Go to `dashboard/` for more details.
-
-- Analysis: Code for the quantitative analysis of study results. Go to `script/` for more details.
+This repository contains the code for *Finesse* app in Android.
 
 ## Finesse Android App
 Code for *Finesse* app in Android. The app tracks the feature-level usage of Instagram, Facebook, YouTube, and KakaoTalk. You can find the list of features available for tracking in the paper's appendix. 

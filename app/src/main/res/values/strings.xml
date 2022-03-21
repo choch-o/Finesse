@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Finesse</string>
+    <string name="uicomponent_service_label">UIComponentService</string>
+
+    <string name="vis">Visualize</string>
+    <string name="enter_username">사용할 닉네임을 입력해주세요.</string>
+    <string name="save">저장</string>
+
+    <!--ESM-->
+<!--    <string name="esm_header">이번 %1$s 사용에 대해 평가해주세요.</string>-->
+    <string name="esm_header">이번 %1$s 사용 중 후회되는 부분을 모두 선택해주세요.</string>
+    <string name="q1">1. 나는 이번 사용에 대해....</string>
+    <string name="q2">2. 1번 응답에 대한 이유를 적어주세요.</string>
+    <string name="q3">사용이 후회되는 부분 모두 선택해주세요.</string>
+    <string name="q4">4. 3번 응답에 대한 이유를 적어주세요.</string>
+
+    <string name="strongly_disagree">매우 후회한다</string>
+    <string name="disagree">후회한다</string>
+    <string name="neutral">보통이다</string>
+    <string name="agree">후회하지\n않는다</string>
+    <string name="strongly_agree">전혀 후회하지\n않는다</string>
+
+    <string name="next">다음</string>
+    <string name="prev">이전</string>
+    <string name="submit">제출</string>
+    <string name="skip">다음에 응답하기</string>
+
+    <string name="fill_answer">질문에 응답해주세요.</string>
+
+    <string name="login_success">로그인 성공</string>
+    <string name="login_failed">로그인 실패</string>
+
+    <!--Feature Labels-->
+    <string name="following_feed">팔로잉 피드 보기</string>
+    <string name="recommended_feed">추천 피드 보기</string>
+    <string name="search">검색</string>
+    <string name="notification">알림</string>
+    <string name="my_post">내 포스트</string>
+    <string name="other_post">다른 사람 포스트</string>
+    <string name="dm">메시지</string>
+    <string name="story">스토리 보기</string>
+    <string name="upload_post">포스트 올리기</string>
+    <string name="upload_story">스토리 올리기</string>
+    <string name="hashtag">해시태그별로 보기</string>
+    <string name="web">웹 서핑</string>
+    <string name="ig_video">영상 보기</string>
+
+    <string name="profile">프로필</string>
+    <string name="chat">채팅</string>
+    <string name="news">뉴스</string>
+    <string name="etc">더보기</string>
+    <string name="sharpsearch">#검색</string>
+
+    <string name="newsfeed">뉴스피드</string>
+    <string name="group">그룹</string>
+    <string name="fb_video">동영상</string>
+    <string name="my_profile">내 프로필</string>
+    <string name="other_profile">다른 사람 프로필</string>
+    <string name="menu">메뉴</string>
+    <string name="page">페이지</string>
+    <string name="messenger">메신저</string>
+    <string name="fb_search">검색/해시태그</string>
+    <string name="post">포스트 보기</string>
+    <string name="comment">댓글 보기</string>
+
+    <string name="home">홈</string>
+    <string name="explore">탐색</string>
+    <string name="subscriptions">구독</string>
+    <string name="inbox">알림</string>
+    <string name="library">보관함/내 계정</string>
+    <string name="channel">채널</string>
+    <string name="yt_video">영상 시청</string>
+    <string name="yt_comment">영상 댓글 보기</string>
+    <string name="playlist">플레이리스트</string>
+
+</resources>

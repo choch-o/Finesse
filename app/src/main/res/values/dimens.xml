@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="blockW">200dp</dimen>
+    <dimen name="blockH">200dp</dimen>
+    <dimen name="collapsedSize">50dp</dimen>
+    <dimen name="expandedSize">80dp</dimen>
+    <dimen name="floatingMarginTop">8dp</dimen>
+    <dimen name="btnCloseSize">25dp</dimen>
+    <dimen name="btnCloseMargin">50dp</dimen>
+    <dimen name="btnSize">30dp</dimen>
+    <dimen name="btnMargin">80dp</dimen>
+    <dimen name="btnSaveMarginTop">20dp</dimen>
+    <dimen name="btnCancelMarginTop">60dp</dimen>
+    <dimen name="esmViewMargin">30dp</dimen>
+    <dimen name="likertScaleText">9sp</dimen>
+    <dimen name="questionMargin">20dp</dimen>
+    <dimen name="esmHeaderSize">20sp</dimen>
+    <dimen name="bottomMargin">100dp</dimen>
+    <dimen name="likertLabel">12sp</dimen>
+
+    <dimen name="usernameWidth">200dp</dimen>
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/rlParent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:ignore="UselessParent">
+
+        <RelativeLayout
+            android:id="@+id/layoutCollapsed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:visibility="visible">
+            <ImageView
+                android:id="@+id/collapsedIv"
+                android:layout_width="@dimen/collapsedSize"
+                android:layout_height="@dimen/collapsedSize"
+                android:layout_marginTop="@dimen/floatingMarginTop"
+                android:src="@drawable/ic_touch"/>
+            <ImageView
+                android:id="@+id/btnClose"
+                android:layout_width="@dimen/btnCloseSize"
+                android:layout_height="@dimen/btnCloseSize"
+                android:layout_marginStart="@dimen/btnCloseMargin"
+                android:src="@drawable/ic_close_black_24dp"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layoutExpanded"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone">
+            <ImageView
+                android:id="@+id/btnSave"
+                android:layout_width="@dimen/btnSize"
+                android:layout_height="@dimen/btnSize"
+                android:layout_marginStart="@dimen/btnMargin"
+                android:layout_marginTop="@dimen/btnSaveMarginTop"
+                android:focusable="true"
+                android:src="@drawable/ic_check_circle" />
+            <ImageView
+                android:id="@+id/btnCancel"
+                android:layout_width="@dimen/btnSize"
+                android:layout_height="@dimen/btnSize"
+                android:layout_marginStart="@dimen/btnMargin"
+                android:layout_marginTop="@dimen/btnCancelMarginTop"
+                android:focusable="true"
+
+                android:src="@drawable/ic_cancel_circle" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</FrameLayout>
+
+    <!--            <ImageView-->
+    <!--                android:id="@+id/expandedIv"-->
+    <!--                android:layout_width="@dimen/expandedSize"-->
+    <!--                android:layout_height="@dimen/expandedSize"-->
+    <!--                android:layout_marginTop="@dimen/floatingMarginTop"-->
+    <!--                android:src="@drawable/ic_touch"/>-->

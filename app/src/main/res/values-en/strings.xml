@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Finesse</string>
+    <string name="uicomponent_service_label">UIComponentService</string>
+
+    <string name="vis">Visualize</string>
+    <string name="enter_username">Enter a username</string>
+    <string name="save">Save</string>
+
+    <!--ESM-->
+    <string name="esm_header">Rate your %1$s use.</string>
+    <string name="q1">1. About the use I feel....</string>
+    <string name="q2">2. Please explain your answer for Question 1.</string>
+    <string name="q3">3. Select any parts you wish didn\'t use</string>
+    <string name="q4">4. Please explain your answer for Question 3.</string>
+
+    <string name="strongly_disagree">Very regretful</string>
+    <string name="disagree">Disagree</string>
+    <string name="neutral">Neutral</string>
+    <string name="agree">Agree</string>
+    <string name="strongly_agree">Not regretful at all</string>
+
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+    <string name="submit">Submit</string>
+    <string name="skip">Skip</string>
+
+    <string name="fill_answer">Please answer the questions.</string>
+
+    <string name="login_success">Authenticated!</string>
+    <string name="login_failed">Authentication failed.</string>
+
+    <!--Feature Labels-->
+    <string name="following_feed">Following Feed</string>
+    <string name="recommended_feed">Recommended Feed</string>
+    <string name="search">Search</string>
+    <string name="notification">Notifications</string>
+    <string name="my_post">My Posts</string>
+    <string name="other_post">Other\'s Posts</string>
+    <string name="dm">Direct Messages</string>
+    <string name="story">View Stories</string>
+    <string name="upload_post">Upload Post</string>
+    <string name="upload_story">Upload Story</string>
+    <string name="hashtag">Browse by Hashtags</string>
+    <string name="web">Web</string>
+    <string name="ig_video">Watch Video</string>
+
+    <string name="profile">Profile</string>
+    <string name="chat">Chats</string>
+    <string name="news">News</string>
+    <string name="etc">ETC</string>
+    <string name="sharpsearch"># Search</string>
+
+    <string name="newsfeed">News Feed</string>
+    <string name="group">Group</string>
+    <string name="fb_video">Video</string>
+    <string name="my_profile">My Profile</string>
+    <string name="other_profile">Other\'s Profile</string>
+    <string name="menu">Menu</string>
+    <string name="page">Page</string>
+    <string name="messenger">Messenger</string>
+    <string name="fb_search">Search/Hashtag</string>
+    <string name="post">View Posts</string>
+    <string name="comment">View Comments</string>
+
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="subscriptions">Subscriptions</string>
+    <string name="inbox">Inbox</string>
+    <string name="library">Library/My Account</string>
+    <string name="channel">Channel</string>
+    <string name="yt_video">Watch Video</string>
+    <string name="yt_comment">View Comments</string>
+    <string name="playlist">Playlist</string>
+</resources>
