@@ -1,4 +1,4 @@
-# Finest
+# Finesse: Social Media App Feature Tracking Tool
 This repository contains the code for *Finesse* app in Android. The app tracks the feature-level usage of Instagram, Facebook, YouTube, and KakaoTalk. This app was first used and introduced in the paper, [*Reflect, Not Regret: Understanding Regretful Smartphone Use with App Feature-Level Analysis*](https://dl.acm.org/doi/abs/10.1145/3479600) (CSCW 2021).
 
 You can find the list of features available for tracking in the paper's appendix. 
